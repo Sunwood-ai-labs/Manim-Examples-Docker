@@ -1,6 +1,9 @@
 
 
-Manim-Examples-Docker
+# Manim-Examples-Docker
+
+
+![](https://github.com/Sunwood-ai-labs/Manim-Examples-Docker/blob/main/demo/media/videos/demo01_square_to_circle/720p30/SquareToCircle_ManimCE_v0.18.0.gif)
 
 ```bash
 docker-compose exec manim manim -qm demo01_square_to_circle.py SquareToCircle
