@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  manim:
+    # image: manimcommunity/manim:latest
+    build: .
+    container_name: my-manim-container
+    volumes:
+      - "./:/manim"
+    command: /bin/bash
+    stdin_open: true
+    tty: true
+    working_dir : /manim/demo
+
+  # jupyterlab:
+  #   image: manimcommunity/manim:latest
+  #   container_name: my-manim-jupyterlab
+  #   ports:
+  #     - "8888:8888"
+  #   command: jupyter lab --ip=0.0.0.0 --allow-root
+  #   volumes:
+  #     - "./:/manim"
