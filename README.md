@@ -51,7 +51,6 @@ docker-compose exec manim manim  -r 720,1280  -qm demo11_VerticalVideo.py Vertic
 
 
 ```bash
-docker-compose exec manim manim  -r 720,1280  -qm demo12_V3DSlides.py V3DSlides
 docker-compose exec manim manim -qm demo12_V3DSlides.py V3DSlides
 ```
 
