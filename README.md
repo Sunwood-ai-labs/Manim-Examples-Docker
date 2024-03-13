@@ -1,8 +1,9 @@
 
 
-# Manim-Examples-Docker
-
-
+<h1>
+<img src="https://raw.githubusercontent.com/Sunwood-ai-labs/OwlWhisper/main/docs/OwlWhisper.png" height=200px align="left"/>
+Manim-Examples-Docker <br>
+</h1>
 
 
 このドキュメントでは、Dockerを使用してManimでアニメーションを作成するための例と手順について説明します。
