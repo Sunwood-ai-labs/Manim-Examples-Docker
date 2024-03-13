@@ -1,7 +1,7 @@
 
 
 <h1>
-<img src="https://raw.githubusercontent.com/Sunwood-ai-labs/OwlWhisper/main/docs/OwlWhisper.png" height=200px align="left"/>
+<img src="https://raw.githubusercontent.com/Sunwood-ai-labs/Manim-Examples-Docker/main/docs/Animatos.png" height=200px align="right"/>
 Manim-Examples-Docker <br>
 </h1>
 
